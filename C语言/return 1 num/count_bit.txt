@@ -1,0 +1,8 @@
+﻿“return 1 num.exe”(Win32):  已加载“C:\Users\28893\Documents\Visual Studio 2013\比特作业\C语言\return 1 num\Debug\return 1 num.exe”。已加载符号。
+“return 1 num.exe”(Win32):  已加载“C:\Windows\SysWOW64\ntdll.dll”。已加载符号。
+“return 1 num.exe”(Win32):  已加载“C:\Windows\SysWOW64\kernel32.dll”。已加载符号。
+“return 1 num.exe”(Win32):  已加载“C:\Windows\SysWOW64\KernelBase.dll”。已加载符号。
+“return 1 num.exe”(Win32):  已加载“C:\Windows\SysWOW64\msvcr120d.dll”。已加载符号。
+线程 0x3084 已退出，返回值为 0 (0x0)。
+线程 0x346c 已退出，返回值为 0 (0x0)。
+程序“[8996] return 1 num.exe”已退出，返回值为 -1073741510 (0xc000013a)。

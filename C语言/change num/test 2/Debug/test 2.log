@@ -1,0 +1,12 @@
+﻿生成启动时间为 2019/4/21 15:32:58。
+     1>项目“C:\Users\28893\Documents\Visual Studio 2013\比特作业\C语言\change num\test 2\test 2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test2.c
+         test2.c
+     1>c:\users\28893\documents\visual studio 2013\比特作业\c语言\change num\test 2\test2.c(45): error C2065: “rturn”: 未声明的标识符
+     1>c:\users\28893\documents\visual studio 2013\比特作业\c语言\change num\test 2\test2.c(45): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+     1>已完成生成项目“C:\Users\28893\Documents\Visual Studio 2013\比特作业\C语言\change num\test 2\test 2.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.28
